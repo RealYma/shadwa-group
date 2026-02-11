@@ -8,7 +8,8 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "postinstall": "cap sync android"
+    "postinstall": "cap sync android",
+    "ionic:build:before": "npm run build"
   },
   "dependencies": {
     "@capacitor/android": "^8.0.2",
