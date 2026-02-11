@@ -1,5 +1,5 @@
 {
   "appId": "com.shadwa.app",
   "appName": "shadwa-prototype",
-  "webDir": "."
+  "webDir": "dist"
 }
