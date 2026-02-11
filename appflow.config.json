@@ -3,7 +3,7 @@
     {
       "appId": "7c468df2",
       "root": ".",
-      "androidPath": "android"
+      "androidPath": "ios/App"
     }
   ]
 }
