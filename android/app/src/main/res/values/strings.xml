@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">shadwa-prototype</string>
+    <string name="title_activity_main">shadwa-prototype</string>
+    <string name="package_name">com.shadwa.app</string>
+    <string name="custom_url_scheme">com.shadwa.app</string>
+</resources>
