@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "appId": "com.shadwa.com",
+      "appId": "bc845c66",
       "root": ".",
       "androidPath": "android"
     }
